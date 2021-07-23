@@ -1,0 +1,72 @@
+{
+  "peliculasVistas": [
+    {
+      "peliculaPosterLink": "/uI9enNoQsqseLXQK60YbscDr5L6.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Family",
+          "id": 10751.0
+        },
+        {
+          "name": "Animation",
+          "id": 16.0
+        },
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Mystery",
+          "id": 9648.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Scooby-Doo Meets Batman",
+      "peliculaOverview": "Scooby-Doo Meets Batman is a video compilation from Warner Bros. Home Entertainment. It consists of two episodes from Hanna-Barbera\u0027s The New Scooby-Doo Movies, \"The Dynamic Scooby Doo Affair\" and \"The Caped Crusader Caper\", where Scooby-Doo and the gang team up with Batman and Robin to capture Joker and the Penguin.",
+      "peliculaReleaseDate": "1972-06-14",
+      "peliculaRating": 7.4,
+      "peliculaRunTime": 78.0,
+      "peliculaId": 287757.0,
+      "peliculaWallpaperLink": "/3YHWdGyiuLVE2x4s3v3C35ZhFyl.jpg"
+    }
+  ],
+  "peliculasPorVer": [
+    {
+      "peliculaPosterLink": "/uI9enNoQsqseLXQK60YbscDr5L6.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Family",
+          "id": 10751.0
+        },
+        {
+          "name": "Animation",
+          "id": 16.0
+        },
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Mystery",
+          "id": 9648.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Scooby-Doo Meets Batman",
+      "peliculaOverview": "Scooby-Doo Meets Batman is a video compilation from Warner Bros. Home Entertainment. It consists of two episodes from Hanna-Barbera\u0027s The New Scooby-Doo Movies, \"The Dynamic Scooby Doo Affair\" and \"The Caped Crusader Caper\", where Scooby-Doo and the gang team up with Batman and Robin to capture Joker and the Penguin.",
+      "peliculaReleaseDate": "1972-06-14",
+      "peliculaRating": 7.4,
+      "peliculaRunTime": 78.0,
+      "peliculaId": 287757.0,
+      "peliculaWallpaperLink": "/3YHWdGyiuLVE2x4s3v3C35ZhFyl.jpg"
+    }
+  ],
+  "seriesVistas": [],
+  "seriesPorVer": [],
+  "seriesCriticadas": {},
+  "peliculasCriticadas": {
+    "287757": "Whadoutidooo my boyyy"
+  },
+  "usuario": "YagoTobio",
+  "clave": "Souto"
+}

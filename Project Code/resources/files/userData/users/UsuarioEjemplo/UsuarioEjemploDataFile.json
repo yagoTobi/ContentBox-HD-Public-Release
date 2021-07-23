@@ -1,0 +1,866 @@
+{
+  "peliculasVistas": [
+    {
+      "peliculaPosterLink": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "History",
+          "id": 36.0
+        },
+        {
+          "name": "War",
+          "id": 10752.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.schindlerslist.com/",
+      "peliculaTitle": "Schindler\u0027s List",
+      "peliculaOverview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "peliculaReleaseDate": "1993-11-30",
+      "peliculaRating": 8.6,
+      "peliculaRunTime": 195.0,
+      "peliculaId": 424.0,
+      "peliculaWallpaperLink": "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg"
+    },
+    {
+      "peliculaPosterLink": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Adventure",
+          "id": 12.0
+        },
+        {
+          "name": "Fantasy",
+          "id": 14.0
+        },
+        {
+          "name": "Action",
+          "id": 28.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.lordoftherings.net/",
+      "peliculaTitle": "The Lord of the Rings: The Two Towers",
+      "peliculaOverview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+      "peliculaReleaseDate": "2002-12-18",
+      "peliculaRating": 8.3,
+      "peliculaRunTime": 179.0,
+      "peliculaId": 121.0,
+      "peliculaWallpaperLink": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg"
+    },
+    {
+      "peliculaPosterLink": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Thriller",
+          "id": 53.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Pulp Fiction",
+      "peliculaOverview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster\u0027s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "peliculaReleaseDate": "1994-09-10",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 154.0,
+      "peliculaId": 680.0,
+      "peliculaWallpaperLink": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+    },
+    {
+      "peliculaPosterLink": "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Action",
+          "id": 28.0
+        },
+        {
+          "name": "Science Fiction",
+          "id": 878.0
+        },
+        {
+          "name": "Adventure",
+          "id": 12.0
+        }
+      ],
+      "peliculaHomepageLink": "http://inceptionmovie.warnerbros.com/",
+      "peliculaTitle": "Inception",
+      "peliculaOverview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person\u0027s idea into a target\u0027s subconscious.",
+      "peliculaReleaseDate": "2010-07-15",
+      "peliculaRating": 8.3,
+      "peliculaRunTime": 148.0,
+      "peliculaId": 27205.0,
+      "peliculaWallpaperLink": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg"
+    },
+    {
+      "peliculaPosterLink": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Thriller",
+          "id": 53.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "No Country for Old Men",
+      "peliculaOverview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+      "peliculaReleaseDate": "2007-11-08",
+      "peliculaRating": 7.9,
+      "peliculaRunTime": 122.0,
+      "peliculaId": 6977.0,
+      "peliculaWallpaperLink": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg"
+    },
+    {
+      "peliculaPosterLink": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Action",
+          "id": 28.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Thriller",
+          "id": 53.0
+        }
+      ],
+      "peliculaHomepageLink": "https://www.warnerbros.com/movies/dark-knight/",
+      "peliculaTitle": "The Dark Knight",
+      "peliculaOverview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "peliculaReleaseDate": "2008-07-16",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 152.0,
+      "peliculaId": 155.0,
+      "peliculaWallpaperLink": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg"
+    },
+    {
+      "peliculaPosterLink": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "War",
+          "id": 10752.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.apocalypsenow.com",
+      "peliculaTitle": "Apocalypse Now",
+      "peliculaOverview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "peliculaReleaseDate": "1979-08-15",
+      "peliculaRating": 8.3,
+      "peliculaRunTime": 147.0,
+      "peliculaId": 28.0,
+      "peliculaWallpaperLink": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg"
+    },
+    {
+      "peliculaPosterLink": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "The Shawshank Redemption",
+      "peliculaOverview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "peliculaReleaseDate": "1994-09-23",
+      "peliculaRating": 8.7,
+      "peliculaRunTime": 142.0,
+      "peliculaId": 278.0,
+      "peliculaWallpaperLink": "/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg"
+    },
+    {
+      "peliculaPosterLink": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Comedy",
+          "id": 35.0
+        }
+      ],
+      "peliculaHomepageLink": "http://ladybird.movie",
+      "peliculaTitle": "Lady Bird",
+      "peliculaOverview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+      "peliculaReleaseDate": "2017-09-08",
+      "peliculaRating": 7.3,
+      "peliculaRunTime": 94.0,
+      "peliculaId": 391713.0,
+      "peliculaWallpaperLink": "/2ByWxoMbfE3pxztCJn5qTJ5Ui2Y.jpg"
+    },
+    {
+      "peliculaPosterLink": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.thesocialnetwork-movie.com",
+      "peliculaTitle": "The Social Network",
+      "peliculaOverview": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room as a small site among friends soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications.",
+      "peliculaReleaseDate": "2010-10-01",
+      "peliculaRating": 7.3,
+      "peliculaRunTime": 121.0,
+      "peliculaId": 37799.0,
+      "peliculaWallpaperLink": "/zPaWTuYD9gceF2ILlI7zyJzqYlr.jpg"
+    },
+    {
+      "peliculaPosterLink": "/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Romance",
+          "id": 10749.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Forrest Gump",
+      "peliculaOverview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "peliculaReleaseDate": "1994-07-06",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 142.0,
+      "peliculaId": 13.0,
+      "peliculaWallpaperLink": "/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg"
+    },
+    {
+      "peliculaPosterLink": "/7sf9CgJz30aXDvrg7DYYUQ2U91T.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "12 Angry Men",
+      "peliculaOverview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors\u0027 prejudices and preconceptions about the trial, the accused, and each other.",
+      "peliculaReleaseDate": "1957-04-10",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 97.0,
+      "peliculaId": 389.0,
+      "peliculaWallpaperLink": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg"
+    },
+    {
+      "peliculaPosterLink": "/1rlqd3j5UC4r1TF3UmcKupMyuxR.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.ifcfilms.com/films/boyhood",
+      "peliculaTitle": "Boyhood",
+      "peliculaOverview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+      "peliculaReleaseDate": "2014-06-05",
+      "peliculaRating": 7.5,
+      "peliculaRunTime": 165.0,
+      "peliculaId": 85350.0,
+      "peliculaWallpaperLink": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg"
+    },
+    {
+      "peliculaPosterLink": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Taxi Driver",
+      "peliculaOverview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+      "peliculaReleaseDate": "1976-02-09",
+      "peliculaRating": 8.2,
+      "peliculaRunTime": 114.0,
+      "peliculaId": 103.0,
+      "peliculaWallpaperLink": "/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg"
+    }
+  ],
+  "peliculasPorVer": [
+    {
+      "peliculaPosterLink": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Thriller",
+          "id": 53.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "https://www.parasite-movie.com/",
+      "peliculaTitle": "기생충",
+      "peliculaOverview": "All unemployed, Ki-taek\u0027s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "peliculaReleaseDate": "2019-05-30",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 133.0,
+      "peliculaId": 496243.0,
+      "peliculaWallpaperLink": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
+    },
+    {
+      "peliculaPosterLink": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Action",
+          "id": 28.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Thriller",
+          "id": 53.0
+        }
+      ],
+      "peliculaHomepageLink": "https://www.warnerbros.com/movies/dark-knight/",
+      "peliculaTitle": "The Dark Knight",
+      "peliculaOverview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "peliculaReleaseDate": "2008-07-16",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 152.0,
+      "peliculaId": 155.0,
+      "peliculaWallpaperLink": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg"
+    },
+    {
+      "peliculaPosterLink": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Comedy",
+          "id": 35.0
+        }
+      ],
+      "peliculaHomepageLink": "http://ladybird.movie",
+      "peliculaTitle": "Lady Bird",
+      "peliculaOverview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+      "peliculaReleaseDate": "2017-09-08",
+      "peliculaRating": 7.3,
+      "peliculaRunTime": 94.0,
+      "peliculaId": 391713.0,
+      "peliculaWallpaperLink": "/2ByWxoMbfE3pxztCJn5qTJ5Ui2Y.jpg"
+    },
+    {
+      "peliculaPosterLink": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "There Will Be Blood",
+      "peliculaOverview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview\u0027s motives and intentions, starting a slow-burning feud that threatens both their lives.",
+      "peliculaReleaseDate": "2007-12-28",
+      "peliculaRating": 8.1,
+      "peliculaRunTime": 158.0,
+      "peliculaId": 7345.0,
+      "peliculaWallpaperLink": "/xFuRZtuTbTY3S1QLY8Y9XYH1JCk.jpg"
+    },
+    {
+      "peliculaPosterLink": "/7sf9CgJz30aXDvrg7DYYUQ2U91T.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "12 Angry Men",
+      "peliculaOverview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors\u0027 prejudices and preconceptions about the trial, the accused, and each other.",
+      "peliculaReleaseDate": "1957-04-10",
+      "peliculaRating": 8.5,
+      "peliculaRunTime": 97.0,
+      "peliculaId": 389.0,
+      "peliculaWallpaperLink": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg"
+    },
+    {
+      "peliculaPosterLink": "/1rlqd3j5UC4r1TF3UmcKupMyuxR.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "http://www.ifcfilms.com/films/boyhood",
+      "peliculaTitle": "Boyhood",
+      "peliculaOverview": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+      "peliculaReleaseDate": "2014-06-05",
+      "peliculaRating": 7.5,
+      "peliculaRunTime": 165.0,
+      "peliculaId": 85350.0,
+      "peliculaWallpaperLink": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg"
+    },
+    {
+      "peliculaPosterLink": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "peliculaGenre": [
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "peliculaHomepageLink": "",
+      "peliculaTitle": "Taxi Driver",
+      "peliculaOverview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+      "peliculaReleaseDate": "1976-02-09",
+      "peliculaRating": 8.2,
+      "peliculaRunTime": 114.0,
+      "peliculaId": 103.0,
+      "peliculaWallpaperLink": "/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg"
+    }
+  ],
+  "seriesVistas": [
+    {
+      "seriePosterLink": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Mystery",
+          "id": 9648.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH",
+      "serieTitle": "WandaVision",
+      "serieOverview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+      "serieRating": 8.4,
+      "serieId": 85271.0,
+      "serieRuntime": [
+        36.0,
+        30.0
+      ],
+      "serieWallpaperLink": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg"
+    },
+    {
+      "seriePosterLink": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Action \u0026 Adventure",
+          "id": 10759.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "War \u0026 Politics",
+          "id": 10768.0
+        }
+      ],
+      "serieHomePageLink": "https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA",
+      "serieTitle": "The Falcon and the Winter Soldier",
+      "serieOverview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+      "serieRating": 7.9,
+      "serieId": 88396.0,
+      "serieRuntime": [
+        50.0
+      ],
+      "serieWallpaperLink": "/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg"
+    },
+    {
+      "seriePosterLink": "/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+      "serieGenero": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "",
+      "serieTitle": "Friends",
+      "serieOverview": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
+      "serieRating": 8.4,
+      "serieId": 1668.0,
+      "serieRuntime": [
+        25.0
+      ],
+      "serieWallpaperLink": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg"
+    },
+    {
+      "seriePosterLink": "/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg",
+      "serieGenero": [
+        {
+          "name": "Western",
+          "id": 37.0
+        },
+        {
+          "name": "Science Fiction",
+          "id": 878.0
+        }
+      ],
+      "serieHomePageLink": "http://www.hbo.com/westworld",
+      "serieTitle": "Westworld",
+      "serieOverview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+      "serieRating": 8.1,
+      "serieId": 63247.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/yGNnjoIGOdQy3douq60tULY8teK.jpg"
+    },
+    {
+      "seriePosterLink": "/nlTUgbZY1E4Dr5B25zLLkudIaV.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Mystery",
+          "id": 9648.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        }
+      ],
+      "serieHomePageLink": "https://dark.netflix.io",
+      "serieTitle": "Dark",
+      "serieOverview": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.",
+      "serieRating": 8.4,
+      "serieId": 70523.0,
+      "serieRuntime": [
+        53.0
+      ],
+      "serieWallpaperLink": "/75HgaphatW0PDI3XIHQWZUpbhn6.jpg"
+    },
+    {
+      "seriePosterLink": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Action \u0026 Adventure",
+          "id": 10759.0
+        }
+      ],
+      "serieHomePageLink": "http://www.hbo.com/game-of-thrones",
+      "serieTitle": "Game of Thrones",
+      "serieOverview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\u0027s Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "serieRating": 8.4,
+      "serieId": 1399.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg"
+    },
+    {
+      "seriePosterLink": "/dvxSvr6OmYGvvt8Z1VdBlPfL1Lf.jpg",
+      "serieGenero": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        }
+      ],
+      "serieHomePageLink": "http://www.cbs.com/shows/how_i_met_your_mother/",
+      "serieTitle": "How I Met Your Mother",
+      "serieOverview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "serieRating": 8.1,
+      "serieId": 1100.0,
+      "serieRuntime": [
+        22.0,
+        25.0
+      ],
+      "serieWallpaperLink": "/5BMwFwNzSidVYArn561acqtktxv.jpg"
+    },
+    {
+      "seriePosterLink": "/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "https://www.netflix.com/title/70264888",
+      "serieTitle": "Black Mirror",
+      "serieOverview": "A contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world. \n\nOver the last ten years, technology has transformed almost every aspect of our lives before we\u0027ve had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone - a black mirror of our 21st Century existence.",
+      "serieRating": 8.3,
+      "serieId": 42009.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/p39K75uoZLwnhGlEAJxRG5xAD9y.jpg"
+    },
+    {
+      "seriePosterLink": "/6PX0r5TRRU5y0jZ70y1OtbLYmoD.jpg",
+      "serieGenero": [
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "http://www.bbc.co.uk/programmes/b045fz8r",
+      "serieTitle": "Peaky Blinders",
+      "serieOverview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+      "serieRating": 8.6,
+      "serieId": 60574.0,
+      "serieRuntime": [
+        60.0,
+        58.0
+      ],
+      "serieWallpaperLink": "/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg"
+    },
+    {
+      "seriePosterLink": "/aowr4xpLP5sRCL50TkuADomJ98T.jpg",
+      "serieGenero": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "http://www.hbo.com/true-detective",
+      "serieTitle": "True Detective",
+      "serieOverview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+      "serieRating": 8.3,
+      "serieId": 46648.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg"
+    }
+  ],
+  "seriesPorVer": [
+    {
+      "seriePosterLink": "/dzj0oLZWe3qMgK4jlgdKWPVxxIx.jpg",
+      "serieGenero": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        }
+      ],
+      "serieHomePageLink": "https://www.nbc.com/brooklyn-nine-nine",
+      "serieTitle": "Brooklyn Nine-Nine",
+      "serieOverview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+      "serieRating": 8.2,
+      "serieId": 48891.0,
+      "serieRuntime": [
+        21.0
+      ],
+      "serieWallpaperLink": "/jTiQAusGG4dVLSb1WHme9I9R4NN.jpg"
+    },
+    {
+      "seriePosterLink": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "serieGenero": [
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Action \u0026 Adventure",
+          "id": 10759.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        },
+        {
+          "name": "Crime",
+          "id": 80.0
+        }
+      ],
+      "serieHomePageLink": "https://www.disneyplus.com/series/wp/6pARMvILBGzF",
+      "serieTitle": "Loki",
+      "serieOverview": "The mercurial villain Loki resumes his role as the God of Mischief following the events of \"Avengers: Endgame\".",
+      "serieRating": 0.0,
+      "serieId": 84958.0,
+      "serieRuntime": [
+        45.0
+      ],
+      "serieWallpaperLink": "/bZGAX8oMDm3Mo5i0ZPKh9G2OcaO.jpg"
+    },
+    {
+      "seriePosterLink": "/5zNA8hk383v0P2CnrYSd0i6ru8F.jpg",
+      "serieGenero": [
+        {
+          "name": "Action \u0026 Adventure",
+          "id": 10759.0
+        },
+        {
+          "name": "Sci-Fi \u0026 Fantasy",
+          "id": 10765.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "",
+      "serieTitle": "The Last of Us",
+      "serieOverview": "Twenty years after modern civilization has been destroyed, hardened survivor Joel is hired to smuggle Ellie, a 14-year-old girl out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, breathtaking journey as unlikely duo depends on each other for survival.",
+      "serieRating": 0.0,
+      "serieId": 100088.0,
+      "serieRuntime": [],
+      "serieWallpaperLink": "/efidBgU8BaQe6sXwQRY7DW3N9EH.jpg"
+    },
+    {
+      "seriePosterLink": "/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg",
+      "serieGenero": [
+        {
+          "name": "Western",
+          "id": 37.0
+        },
+        {
+          "name": "Science Fiction",
+          "id": 878.0
+        }
+      ],
+      "serieHomePageLink": "http://www.hbo.com/westworld",
+      "serieTitle": "Westworld",
+      "serieOverview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+      "serieRating": 8.1,
+      "serieId": 63247.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/yGNnjoIGOdQy3douq60tULY8teK.jpg"
+    },
+    {
+      "seriePosterLink": "/6PX0r5TRRU5y0jZ70y1OtbLYmoD.jpg",
+      "serieGenero": [
+        {
+          "name": "Crime",
+          "id": 80.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "http://www.bbc.co.uk/programmes/b045fz8r",
+      "serieTitle": "Peaky Blinders",
+      "serieOverview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+      "serieRating": 8.6,
+      "serieId": 60574.0,
+      "serieRuntime": [
+        60.0,
+        58.0
+      ],
+      "serieWallpaperLink": "/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg"
+    },
+    {
+      "seriePosterLink": "/aowr4xpLP5sRCL50TkuADomJ98T.jpg",
+      "serieGenero": [
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "http://www.hbo.com/true-detective",
+      "serieTitle": "True Detective",
+      "serieOverview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+      "serieRating": 8.3,
+      "serieId": 46648.0,
+      "serieRuntime": [
+        60.0
+      ],
+      "serieWallpaperLink": "/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg"
+    }
+  ],
+  "seriesCriticadas": {
+    "1668": "WE WERE NOT ON A BREAK",
+    "85271": "Dissapointing Finale. Great series otherwise",
+    "46648": "UhMazing",
+    "70523": "Greatest Series of all time",
+    "1100": "TRACYYYYYYYYYYYYYY MC CONELLLLLLLLLLLLL",
+    "88396": "This Series makes me want to kill myself. Aside from that madripoor is cool. ",
+    "63247": "What an incredible first season. Everything else is kinda meh though"
+  },
+  "peliculasCriticadas": {
+    "6977": "Call it",
+    "389": "Greatest Film Ever made",
+    "37799": "What a great great film",
+    "424": "Peliculon de 3er grado",
+    "680": "Que cacho pelicula. Big Pog",
+    "121": "La 3a mejor de la Trilogia ",
+    "28": "Haven\u0027t seen this one, but I\u0027d like to add some more stuff to this application presentation",
+    "13": "Quien no haya visto esta pelicula. No existe"
+  },
+  "usuario": "UsuarioEjemplo",
+  "clave": "java2021"
+}

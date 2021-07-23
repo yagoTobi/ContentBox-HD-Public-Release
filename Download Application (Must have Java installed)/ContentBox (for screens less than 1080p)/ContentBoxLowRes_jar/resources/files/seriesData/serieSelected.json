@@ -1,0 +1,199 @@
+{
+    "original_language": "en",
+    "number_of_episodes": 208,
+    "networks": [
+        {
+            "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+            "name": "CBS",
+            "id": 16,
+            "origin_country": "US"
+        }
+    ],
+    "type": "Scripted",
+    "backdrop_path": "/5BMwFwNzSidVYArn561acqtktxv.jpg",
+    "genres": [
+        {
+            "name": "Comedy",
+            "id": 35
+        }
+    ],
+    "popularity": 139.347,
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "id": 1100,
+    "number_of_seasons": 9,
+    "vote_count": 2756,
+    "first_air_date": "2005-09-19",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "seasons": [
+        {
+            "air_date": "2006-11-20",
+            "overview": "",
+            "episode_count": 11,
+            "name": "Specials",
+            "season_number": 0,
+            "id": 3613,
+            "poster_path": "/ggQEDWguo6CVctkLKMFcOXzEQxR.jpg"
+        },
+        {
+            "air_date": "2005-09-19",
+            "overview": "",
+            "episode_count": 22,
+            "name": "Season 1",
+            "season_number": 1,
+            "id": 3607,
+            "poster_path": "/pC6SDAf0Vvcx6NLTxx78NlCPtW9.jpg"
+        },
+        {
+            "air_date": "2006-09-18",
+            "overview": "",
+            "episode_count": 22,
+            "name": "Season 2",
+            "season_number": 2,
+            "id": 3608,
+            "poster_path": "/gsQZtJgLmsCeepzWrQZ32CUQpxn.jpg"
+        },
+        {
+            "air_date": "2007-09-24",
+            "overview": "",
+            "episode_count": 20,
+            "name": "Season 3",
+            "season_number": 3,
+            "id": 3609,
+            "poster_path": "/eAKwxhNJynTiBi2FcLIbgypYivi.jpg"
+        },
+        {
+            "air_date": "2008-09-22",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 4",
+            "season_number": 4,
+            "id": 3610,
+            "poster_path": "/eRZKD5EzVZ8e1ZaADylVzPuPbM0.jpg"
+        },
+        {
+            "air_date": "2009-09-21",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 5",
+            "season_number": 5,
+            "id": 3611,
+            "poster_path": "/mcpb3gsBjqIgXRaMvOqoqEbnf8d.jpg"
+        },
+        {
+            "air_date": "2010-09-20",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 6",
+            "season_number": 6,
+            "id": 3612,
+            "poster_path": "/n1kRegqvMCkT6jlc35SZZeusEtJ.jpg"
+        },
+        {
+            "air_date": "2011-09-19",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 7",
+            "season_number": 7,
+            "id": 3614,
+            "poster_path": "/z6z5t33Dn93mloXa8lIkwqgZ0Qh.jpg"
+        },
+        {
+            "air_date": "2012-09-24",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 8",
+            "season_number": 8,
+            "id": 3615,
+            "poster_path": "/q4g25dFhEwXiHSvOa4qQbgByNTv.jpg"
+        },
+        {
+            "air_date": "2013-09-23",
+            "overview": "",
+            "episode_count": 24,
+            "name": "Season 9",
+            "season_number": 9,
+            "id": 3616,
+            "poster_path": "/ez6pjmvnZpdfowSlGfEJFsNZLBQ.jpg"
+        }
+    ],
+    "languages": [
+        "en"
+    ],
+    "created_by": [
+        {
+            "gender": 2,
+            "credit_id": "5254161c19c295794037bfca",
+            "name": "Carter Bays",
+            "profile_path": "/gjgWBAbBX582YR1D1GBeUhtqCW0.jpg",
+            "id": 1217221
+        },
+        {
+            "gender": 2,
+            "credit_id": "5254161c19c295794037bfd0",
+            "name": "Craig Thomas",
+            "profile_path": "/11piamBSf0YsGvH06OtMPGVG4mU.jpg",
+            "id": 1217224
+        }
+    ],
+    "last_episode_to_air": {
+        "production_code": "9ALH24",
+        "air_date": "2014-03-31",
+        "overview": "Ted finally finishes telling his kids the story of how he met their mother.",
+        "episode_number": 24,
+        "vote_average": 5.1,
+        "name": "Last Forever (2)",
+        "season_number": 9,
+        "id": 971360,
+        "still_path": "/uCGse43FNRAhqhBXA50sFMjKasl.jpg",
+        "vote_count": 28
+    },
+    "poster_path": "/dvxSvr6OmYGvvt8Z1VdBlPfL1Lf.jpg",
+    "origin_country": [
+        "US"
+    ],
+    "spoken_languages": [
+        {
+            "name": "English",
+            "iso_639_1": "en",
+            "english_name": "English"
+        }
+    ],
+    "production_companies": [
+        {
+            "logo_path": null,
+            "name": "Carter Bays",
+            "id": 19792,
+            "origin_country": ""
+        },
+        {
+            "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+            "name": "20th Century Fox Television",
+            "id": 1556,
+            "origin_country": "US"
+        },
+        {
+            "logo_path": "/uJhjhEJEPDoCSSOci44tYoe5BjZ.png",
+            "name": "20th Television",
+            "id": 21659,
+            "origin_country": "US"
+        }
+    ],
+    "original_name": "How I Met Your Mother",
+    "vote_average": 8.1,
+    "name": "How I Met Your Mother",
+    "tagline": "A love story in reverse.",
+    "episode_run_time": [
+        22,
+        25
+    ],
+    "next_episode_to_air": null,
+    "in_production": false,
+    "last_air_date": "2014-03-31",
+    "homepage": "http://www.cbs.com/shows/how_i_met_your_mother/",
+    "status": "Ended"
+}

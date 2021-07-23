@@ -1,0 +1,33 @@
+{
+  "peliculasVistas": [],
+  "peliculasPorVer": [],
+  "peliculasCriticadas": {},
+  "seriesVistas": [],
+  "seriesPorVer": [
+    {
+      "seriePosterLink": "/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+      "serieGenero": [
+        {
+          "name": "Comedy",
+          "id": 35.0
+        },
+        {
+          "name": "Drama",
+          "id": 18.0
+        }
+      ],
+      "serieHomePageLink": "",
+      "serieTitle": "Friends",
+      "serieOverview": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
+      "serieRating": 8.4,
+      "serieId": 1668.0,
+      "serieRuntime": [
+        25.0
+      ],
+      "serieWallpaperLink": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg"
+    }
+  ],
+  "seriesCriticadas": {},
+  "usuario": "Test12",
+  "clave": "test12"
+}

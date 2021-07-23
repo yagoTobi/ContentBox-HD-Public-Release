@@ -1,0 +1,154 @@
+{
+    "original_language": "en",
+    "number_of_episodes": 28,
+    "networks": [
+        {
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "id": 49,
+            "origin_country": "US"
+        }
+    ],
+    "type": "Scripted",
+    "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+    "genres": [
+        {
+            "name": "Western",
+            "id": 37
+        },
+        {
+            "name": "Science Fiction",
+            "id": 878
+        }
+    ],
+    "popularity": 101.742,
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "id": 63247,
+    "number_of_seasons": 3,
+    "vote_count": 3555,
+    "first_air_date": "2016-10-02",
+    "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+    "seasons": [
+        {
+            "air_date": "2018-04-02",
+            "overview": "",
+            "episode_count": 32,
+            "name": "Specials",
+            "season_number": 0,
+            "id": 113677,
+            "poster_path": "/qBehWXe1JsPrR2WsoaklThMwg7e.jpg"
+        },
+        {
+            "air_date": "2016-10-02",
+            "overview": "Westworld - a theme park where guests indulge fantasies with robots, a destination offering the future of sin, the artificial intelligence that fuels it and the humans that sense there's something more sinister at play.",
+            "episode_count": 10,
+            "name": "Season One: The Maze",
+            "season_number": 1,
+            "id": 68638,
+            "poster_path": "/zKGZJ3Ll3vOHrCk9B0Z0Pr18qnV.jpg"
+        },
+        {
+            "air_date": "2018-04-22",
+            "overview": "The reckoning is here. After finding the center of The Maze, the hosts revolt against their human captors while searching for a new purpose: The Door.",
+            "episode_count": 10,
+            "name": "Season Two: The Door",
+            "season_number": 2,
+            "id": 98895,
+            "poster_path": "/1SupbbgG4nDHnmGk37d46u2oT5Z.jpg"
+        },
+        {
+            "air_date": "2020-03-15",
+            "overview": "Taking place immediately after the events of the second season, Dolores develops a relationship with Caleb in neo-Los Angeles, and learns how robots are treated in the real world. Meanwhile, Maeve finds herself in another Delos park, this one with a World War II theme and set in Fascist Italy.",
+            "episode_count": 8,
+            "name": "Season Three: The New World",
+            "season_number": 3,
+            "id": 128116,
+            "poster_path": "/mUjK0jqx485OM7hmJiOQ6nHfBD0.jpg"
+        }
+    ],
+    "languages": [
+        "en"
+    ],
+    "created_by": [
+        {
+            "gender": 2,
+            "credit_id": "55a6280992514109ab000f13",
+            "name": "Jonathan Nolan",
+            "profile_path": "/qd8d381vz2skpreY1BfVuSfLJts.jpg",
+            "id": 527
+        },
+        {
+            "gender": 1,
+            "credit_id": "55d2f13ac3a368463c000b66",
+            "name": "Lisa Joy",
+            "profile_path": "/dYer0SbPwoI1jqY6iKC1KBhgRRX.jpg",
+            "id": 1497967
+        }
+    ],
+    "last_episode_to_air": {
+        "production_code": "",
+        "air_date": "2020-05-03",
+        "overview": "Time to face the music.",
+        "episode_number": 8,
+        "vote_average": 7.263,
+        "name": "Crisis Theory",
+        "season_number": 3,
+        "id": 2206538,
+        "still_path": "/sjeRx8qxjuesythe6IC0VuFux4o.jpg",
+        "vote_count": 19
+    },
+    "poster_path": "/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg",
+    "origin_country": [
+        "US"
+    ],
+    "spoken_languages": [
+        {
+            "name": "English",
+            "iso_639_1": "en",
+            "english_name": "English"
+        }
+    ],
+    "production_companies": [
+        {
+            "logo_path": "/3T19XSr6yqaLNK8uJWFImPgRax0.png",
+            "name": "Warner Bros. Television",
+            "id": 1957,
+            "origin_country": "US"
+        },
+        {
+            "logo_path": null,
+            "name": "Jerry Weintraub Productions",
+            "id": 2596,
+            "origin_country": "US"
+        },
+        {
+            "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+            "name": "Bad Robot",
+            "id": 11461,
+            "origin_country": "US"
+        },
+        {
+            "logo_path": null,
+            "name": "Kilter Films",
+            "id": 103490,
+            "origin_country": "US"
+        }
+    ],
+    "original_name": "Westworld",
+    "vote_average": 8.1,
+    "name": "Westworld",
+    "tagline": "Every hero has a code.",
+    "episode_run_time": [
+        60
+    ],
+    "next_episode_to_air": null,
+    "in_production": true,
+    "last_air_date": "2020-05-03",
+    "homepage": "http://www.hbo.com/westworld",
+    "status": "Returning Series"
+}
